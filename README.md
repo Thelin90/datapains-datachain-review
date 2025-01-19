@@ -1,6 +1,6 @@
 # datapains-datachain-review
 
-[]Medium Article](https://medium.com/@simon.thelin90/review-of-datachain-hit-or-miss-when-utilising-video-metadata-capabilities-07138a33b19f)
+[Medium Article](https://medium.com/@simon.thelin90/review-of-datachain-hit-or-miss-when-utilising-video-metadata-capabilities-07138a33b19f)
 
 # Setup - MAC
 
