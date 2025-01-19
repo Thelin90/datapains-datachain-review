@@ -9,6 +9,8 @@ dependencies = [
     "ruff>=0.9.2",
     "datachain>=0.8.9",
     "polars>=1.20.0",
+    "imageio[ffmpeg]>=2.36.1",
+    "av>=14.0.1",
 ]
 
 [dependency-groups]
